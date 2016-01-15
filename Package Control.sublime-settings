@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Auto Semi-Colon",
+		"Babel",
+		"GitGutter",
+		"JavaScript & NodeJS Snippets",
+		"Material Theme",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Ruby on Rails snippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-rubocop"
+	]
+}

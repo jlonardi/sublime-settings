@@ -1,0 +1,31 @@
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"copy_with_empty_selection": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 10,
+	"ignored_packages":
+	[
+	],
+	"index_files": true,
+	"paths":
+	{
+		"linux":
+		[
+			"~/.rbenv/shims"
+		],
+		"osx":
+		[
+		],
+		"windows":
+		[
+		]
+	},
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+}
