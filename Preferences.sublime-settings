@@ -3,7 +3,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_selector": "source, text",
 	"auto_complete_with_fields": true,
-	"bold_folder_labels": false,
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"draw_white_space": "all",
