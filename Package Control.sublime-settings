@@ -7,6 +7,7 @@
 	[
 		"Auto Semi-Colon",
 		"Babel",
+		"Git",
 		"GitGutter",
 		"JavaScript & NodeJS Snippets",
 		"LESS",
@@ -14,10 +15,12 @@
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Ruby on Rails snippets",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-rubocop"
 	]
 }
