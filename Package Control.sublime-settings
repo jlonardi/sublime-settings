@@ -21,6 +21,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-rubocop",
+		"zz File Icons"
 	]
 }
