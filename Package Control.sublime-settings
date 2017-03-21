@@ -2,9 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"zz File Icons"
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Auto Semi-Colon",
 		"Babel",
 		"Git",
@@ -21,7 +23,6 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-rubocop",
-		"zz File Icons"
+		"SublimeLinter-rubocop"
 	]
 }
