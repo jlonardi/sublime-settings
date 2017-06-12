@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"zz File Icons"
 	],
 	"installed_packages":
 	[
@@ -22,6 +21,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-rubocop"
 	]
