@@ -14,6 +14,7 @@
 		"LESS",
 		"Material Theme",
 		"Package Control",
+		"PackageDev",
 		"RailsCasts Colour Scheme",
 		"Ruby on Rails snippets",
 		"Sass",
@@ -23,6 +24,7 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-flow",
 		"SublimeLinter-rubocop"
 	]
 }
